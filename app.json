@@ -1,0 +1,38 @@
+{
+  "id": "35545004-1c64-4199-b6df-306ae77523e1",
+  "name": "CustomerFirmaJUht",
+  "publisher": "Default publisher",
+  "version": "4.4.4.3",
+  "runtime": "4.0",
+  "showMyCode": true,
+  "target": "OnPrem",
+  "platform": "18.0.22893.23773",
+  "contextSensitiveHelpUrl": "https://CustomerFirmaJUht.com/help/",
+  "features": [
+    "TranslationFile"
+  ],
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "15.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "supportedLocales": [
+    "en-US",
+    "et-EE"
+  ],
+  "idRanges": [
+    {
+      "from": 50700,
+      "to": 50749
+    }
+  ]
+}

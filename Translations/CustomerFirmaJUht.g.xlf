@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CustomerFirmaJUht">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2473526021 - Field 1895639988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Old File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CopyFile - Field AGP_PRK_001_FileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2473526021 - Field 2249872281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AGP_PRK_001_FileType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CopyFile - Field AGP_PRK_001_FileType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2473526021 - Field 2249872281 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text File(notepad), Microsoft Word Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CopyFile - Field AGP_PRK_001_FileType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2473526021 - Field 3977735024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CopyFile - Field AGP_PRK_001_NewFileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2718231702 - Method 2473526021 - NamedType 485480048" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File was copyied</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CopyAndCreate - Method CopyFile - NamedType copyed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2718231702 - Method 2473526021 - NamedType 3405881531" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File was not copyed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CopyAndCreate - Method CopyFile - NamedType notcopyed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2718231702 - Method 3628747446 - NamedType 4185167274" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The file was Created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CopyAndCreate - Method CreateFile - NamedType filecreated</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2718231702 - Method 3628747446 - NamedType 1322176829" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The file was not created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CopyAndCreate - Method CreateFile - NamedType filenotcreated</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2718231702 - Method 61136511 - NamedType 1414675381" size-unit="char" translate="yes" xml:space="preserve">
+          <source>record was not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CopyAndCreate - Method PutOwnerInfoInToSalesHeader - NamedType notfound</note>
+        </trans-unit>
+        <trans-unit id="Page 3891658192 - Control 989751795 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File that you want to copy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Coping - Control FileName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3891658192 - Control 3054325674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The type of file what you want to create!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Coping - Control FileType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3891658192 - Control 163096407 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File that you want to paste in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Coping - Control NewFileName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3891658192 - Action 2550573093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Coping - Action Copy File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3891658192 - Action 1910069246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Coping - Action Create File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 552082818 - Control 2700117070 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Is Customer company Owner Identification Code(Estonias Id code)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Company Owner - Control OwnersIdCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 552082818 - Control 2316830230 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Is Customer company Owner Identification Code Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Company Owner - Control OwnersIdCodeType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 552082818 - Control 4186841367 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Is Customers compay Owner Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Company Owner - Control OwnersName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1477445746 - Control 2287742129 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
+          <source>Is Customer cpmany Owner Identification Code(Estonias Id code)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CreditMemoSalesOwner - Control OwnersId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1477445746 - Control 4186841367 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
+          <source>Is Customer cards Owner Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CreditMemoSalesOwner - Control OwnersName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2060488364 - Control 2287742129 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Is Customer cards Owner Identification Code(Estonias Id code)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesInvoiceOwner - Control OwnersId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2060488364 - Control 4186841367 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Is Customer cards Owner Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesInvoiceOwner - Control OwnersName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1741218985 - Control 3223187400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Is Customer cards Owner Identification Code(Estonias Id code)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderOwner - Control OwnerId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1741218985 - Control 2509398674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Is Customer cards Owner Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderOwner - Control OwnerName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4287784147 - Control 3223187400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
+          <source>Is Customer cards Owner Identification Code(Estonias Id code)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesRetunOwner - Control OwnerId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4287784147 - Control 2509398674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
+          <source>Is Customer cards Owner Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesRetunOwner - Control OwnerName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4097067995 - Field 2848055069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Owners Id Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerCardOwner - Field AGP_PRK_001_OwnersIdCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4097067995 - Field 2848055069 - Method 2126772001 - NamedType 1375272214" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 4097067995">
+          <source>Id Code has been saved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerCardOwner - Field AGP_PRK_001_OwnersIdCode - Method OnValidate - NamedType StatusTrue</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4097067995 - Field 2848055069 - Method 2126772001 - NamedType 4158608563" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 4097067995">
+          <source>Id Code is wrong and is not saved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerCardOwner - Field AGP_PRK_001_OwnersIdCode - Method OnValidate - NamedType StatusFalse</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4097067995 - Field 1148641589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Owners Id Code Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerCardOwner - Field AGP_PRK_001_OwnersIdCodeType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4097067995 - Field 1148641589 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Estonian ID Code, Other Country Id code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerCardOwner - Field AGP_PRK_001_OwnersIdCodeType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4097067995 - Field 339790600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Owners Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerCardOwner - Field AGP_PRK_001_OwnersName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1232066185 - Field 2848055069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2925931323">
+          <source>Owners Id Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ReturnReciptOwnersInfo - Field AGP_PRK_001_OwnersIdCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1232066185 - Field 339790600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2925931323">
+          <source>Owners Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ReturnReciptOwnersInfo - Field AGP_PRK_001_OwnersName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2011539648 - Field 2848055069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Owners Id Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesCrMemoOwnerInfo - Field AGP_PRK_001_OwnersIdCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2011539648 - Field 339790600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Owners Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesCrMemoOwnerInfo - Field AGP_PRK_001_OwnersName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1074382073 - Field 2848055069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Owners Id Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesInvoceOwnerInfo - Field AGP_PRK_001_OwnersIdCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1074382073 - Field 339790600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Owners Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesInvoceOwnerInfo - Field AGP_PRK_001_OwnersName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1680031417 - Field 2848055069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Owners Id Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesShipmentOwnerInfo - Field AGP_PRK_001_OwnersIdCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1680031417 - Field 339790600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Owners Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesShipmentOwnerInfo - Field AGP_PRK_001_OwnersName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 610003499 - Field 2848055069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Owners Id Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesTableOwnerInfo - Field AGP_PRK_001_OwnersIdCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 610003499 - Field 339790600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Owners Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesTableOwnerInfo - Field AGP_PRK_001_OwnersName - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
