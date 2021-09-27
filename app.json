@@ -3,7 +3,7 @@
   "name": "CustomerFirmaJUht",
   "publisher": "Default publisher",
   "version": "4.4.4.3",
-  "runtime": "4.0",
+  "runtime": "5.0",
   "showMyCode": true,
   "target": "OnPrem",
   "platform": "18.0.22893.23773",
@@ -13,13 +13,13 @@
   ],
   "dependencies": [
     {
-      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
       "name": "System Application",
       "version": "1.0.0.0",
       "publisher": "Microsoft"
     },
     {
-      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
       "name": "Base Application",
       "version": "15.0.0.0",
       "publisher": "Microsoft"
