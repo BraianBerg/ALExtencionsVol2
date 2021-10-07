@@ -1,5 +1,6 @@
 report 50712 SalesHeaderReport
 {
+    PdfFontEmbedding = Yes;
     UsageCategory = Administration;
     ApplicationArea = All;
     DefaultLayout = RDLC;
@@ -57,8 +58,8 @@ report 50712 SalesHeaderReport
             begin
                 TestDateTime := CurrentDateTime;
                 IBarcodeFontProvider := Enum::"Barcode Font Provider"::IDAutomation1D;
-                BarcodeSymbology := Enum::"Barcode Symbology"::"EAN-13";
-                EncodedText := IBarcodeFontProvider.EncodeFont('Cronus Special', BarcodeSymbology);
+                BarcodeSymbology := Enum::"Barcode Symbology"::Code39;
+                EncodedText := IBarcodeFontProvider.EncodeFont('10110040', BarcodeSymbology);
             end;
         }
     }
