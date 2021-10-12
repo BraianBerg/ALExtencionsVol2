@@ -3,6 +3,26 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="CustomerFirmaJUht">
     <body>
       <group id="body">
+        <trans-unit id="Table 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 714791889 - Field 290741108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table City - Field CityName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 714791889 - Field 4208237386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table City - Field Continent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 714791889 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table City - Field Country - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2473526021 - Field 1895639988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Old File Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22,6 +42,36 @@
           <source>New File Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table CopyFile - Field AGP_PRK_001_NewFileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 504538005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>People data from speciffic city</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table People Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 504538005 - Field 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table People Data - Field Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 504538005 - Field 290741108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Corresponding city name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table People Data - Field CityName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 504538005 - Field 2903497563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Family name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table People Data - Field FamilyName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 504538005 - Field 3572846064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of building you life in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table People Data - Field HouseType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 504538005 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table People Data - Field Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Codeunit 2718231702 - Method 2473526021 - NamedType 485480048" size-unit="char" translate="yes" xml:space="preserve">
           <source>File was copyied</source>
@@ -47,6 +97,61 @@
           <source>record was not found</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CopyAndCreate - Method PutOwnerInfoInToSalesHeader - NamedType notfound</note>
+        </trans-unit>
+        <trans-unit id="Page 2624294033 - Control 290741108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Country model - Control CityName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2624294033 - Control 4208237386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Country model - Control Continent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2624294033 - Control 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Country model - Control Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2624294033 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Country model - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2624294033 - Control 4292420065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>People Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Country model - Control peopleModels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 105840488 - Control 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API People Model - Control Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 105840488 - Control 290741108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API People Model - Control CityName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 105840488 - Control 2903497563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API People Model - Control FamilyName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 105840488 - Control 3572846064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API People Model - Control HouseType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 105840488 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API People Model - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 105840488 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API People Model - Control Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3891658192 - Control 989751795 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>File that you want to copy</source>
