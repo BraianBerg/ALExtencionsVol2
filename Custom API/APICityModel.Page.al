@@ -5,8 +5,8 @@ page 50716 "API Country model"
     APIPublisher = 'default';
     APIGroup = 'demo';
 
-    EntityName = 'peopleModel';
-    EntitySetName = 'peopleModels';
+    EntityName = 'cityModel';
+    EntitySetName = 'cityModels';
 
     ODataKeyFields = SystemId;
     SourceTable = "City";
